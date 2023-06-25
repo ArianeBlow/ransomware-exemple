@@ -6,6 +6,8 @@ Start the program (can be compiled with pyinstaller or started as python script)
 
 Search for documents to encrypt (By default all OpenOffice / Office / Images documents type)
 
+![img](https://user-images.githubusercontent.com/61753065/248557619-e227a545-21bb-4cb0-8fc2-840142860613.PNG "img1")
+
 
 
 Start a HTTP server that can receive a POST request (to receive the encryption key used to encrypt the datas)
