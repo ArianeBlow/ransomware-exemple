@@ -1,5 +1,28 @@
 # ransomware-exemple
 
+## How to use : 
+
+Start the program (can be compiled with pyinstaller or started as python script)
+
+Search for documents to encrypt (By default all OpenOffice / Office / Images documents type)
+![img1]([/assets/img/MarineGEO_logo.png](https://user-images.githubusercontent.com/61753065/248557619-e227a545-21bb-4cb0-8fc2-840142860613.PNG) "img1")
+
+![img1]([/assets/img/MarineGEO_logo.png](https://user-images.githubusercontent.com/61753065/248557616-4d757488-ae81-4423-8650-f1eed691cf8b.PNG) "img1")
+
+
+Start a HTTP server that can receive a POST request (to receive the encryption key used to encrypt the datas)
+
+Start encryption and retreive your encryption key 
+![img1]([/assets/img/MarineGEO_logo.png](https://user-images.githubusercontent.com/61753065/248557618-9b7dc155-3cf8-46f5-bf01-16d1bc39099c.PNG) "img1")
+
+![img1]([/assets/img/MarineGEO_logo.png](https://user-images.githubusercontent.com/61753065/248557615-8a22e001-1f14-4811-83dc-949a46ee6d6d.PNG) "img1")
+
+
+the decryptor use the same GUI, start the program , put your key in the input and get back your documents
+
+![img1]([/assets/img/MarineGEO_logo.png](https://user-images.githubusercontent.com/61753065/248557617-664e26a2-c81f-4794-a6ab-32ee208f98e7.PNG) "img1")
+
+
 ## Overview
 
 The Ransomware Demonstration Software is a powerful tool designed for educational purposes to showcase the inner workings and potential dangers associated with ransomware attacks. It provides users with a controlled environment to simulate and understand the devastating effects of ransomware on computer systems, without causing any actual harm.
